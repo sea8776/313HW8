@@ -7,7 +7,7 @@ Date: April 2025
 Purpose of Software:
 This project implements a simple matrix library in C++ and C++ providing basic matrix operations:
 Construction and destruction of matrices
-Element access with bounds checking
+Element access (with bounds checking for C++)
 Matrix addition, multiplication, scalar, and transpose
 Implemented output for easy testing and debugging
 A test driver (driver.cpp) uses a Tester class to validate each operation and a combined equation example.
