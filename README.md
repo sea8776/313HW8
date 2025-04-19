@@ -1,7 +1,7 @@
 Matrix Library Project
 
 Authoring:
-Anthony Sagalovsky — Student, UMBC CMSC 341 (Fall 2024)
+Anthony Sagalovsky -- Student, UMBC CMSC 341 (Fall 2024)
 Date: April 2025
 
 Purpose of Software:
