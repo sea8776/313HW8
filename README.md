@@ -13,11 +13,12 @@ Anthony Sagalovsky -- Student, UMBC CMSC 341 (Fall 2024)
 <br>A test driver (driver.cpp) uses a Tester class to validate each operation and a combined equation example.
 
 **Files:**
+<br> **MatrixCPP folder**
 <br> matrix.h — C++ Declaration of the Matrix class, including constructors, operator overloads, and I/O functions.
 <br> matrix.cpp — C++ Implementation of all Matrix member functions and friend operators.
 <br> driver.cpp — C++ Tester class with unit tests for each matrix operation and a final combined equation test; prints PASS/FAIL and sample output.
 <br> Makefile — C++ Instructions to compile matrix.cpp and driver.cpp into the driver executable.
-<br>
+<br> **MatrixC folder**
 <br> matrixC.h — C Declaration of the Matrix operations.
 <br> matrixC.c — C Implementation of all Matrix operations.
 <br> driverC.c — C Tester class with unit tests for each matrix operation and a final combined equation test; prints PASS/FAIL and sample output.
@@ -42,7 +43,6 @@ Anthony Sagalovsky -- Student, UMBC CMSC 341 (Fall 2024)
 <br>Final computed matrix D is printed for visual verification.
 
 **Additional Information**
-
 <br>For C++ version:
 <br>The library uses operator() with built‑in bounds checking (throws std::out_of_range).
 <br>Error conditions in member functions throw standard C++ exceptions (invalid_argument, out_of_range).
